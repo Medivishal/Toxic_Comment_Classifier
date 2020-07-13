@@ -53,7 +53,7 @@ dependencies:
   Make a clone of the project into a convenient location on your pc
 
 
--->Open Anaconda Prompt/terminal for mac or linux
+-->Open Anaconda Prompt/terminal for windows or mac os
 
 -->Change directory to 'Flask app' using cd command
 
